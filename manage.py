@@ -1,4 +1,4 @@
-#!/usr/bin/YuuMoon_env python
+#!/usr/bin/env python
 import os
 import sys
 
