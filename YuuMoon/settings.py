@@ -25,7 +25,7 @@ SECRET_KEY = '9qgh-%y9tr2*6cxvnzf8(u8a!&&&ea_-@-a18gooqunwozt)c$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*', ]
 
 
 # Application definition
@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'comment',
     'likes',
     'user',
+    'proxy',
 ]
 
 MIDDLEWARE = [
@@ -88,8 +89,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': "yuumoon",  # 数据库名字
         'USER': 'root',  # 数据库账号
-        'PASSWORD': 'gttx_2019',  # 数据库密码
-        'HOST': 'localhost',  # 连接主机
+        'PASSWORD': 'Zhang@2020',  # 数据库密码
+        'HOST': '106.12.200.166',  # 连接主机
         'PORT': '3306'  # 数据库端口
     }
 }
@@ -136,6 +137,7 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
 ]
 
+STATIC_ROOT = os.path.join(BASE_DIR, '/static/')
 
 # media
 MEDIA_URL = '/media/'

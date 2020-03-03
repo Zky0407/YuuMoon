@@ -49,7 +49,10 @@
     <script>
         // 图表配置
         var options = {
-            chart: { type: 'line' },
+            chart: {
+                type: 'line',
+                backgroundColor: 'rgba(0, 0, 0, 0)'
+            },
             title: { text: null },
             xAxis: {
                 categories: {{ dates|safe }},   // x 轴分类
