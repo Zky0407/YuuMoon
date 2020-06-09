@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8333fe8d-fac3-40f1-8416-0190d178b956" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/YuuMoon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/YuuMoon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YuuMoon/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuumoon/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YuuMoon/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuumoon/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YuuMoon/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuumoon/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YuuMoon/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuumoon/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YuuMoon/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuumoon/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likes/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_statistics/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/migrations/0001_initial.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d5UdaPRw2Hc6zIVirgOkZg7of5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8333fe8d-fac3-40f1-8416-0190d178b956" name="Default Changelist" comment="" />
+      <created>1591714535494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591714535494</updated>
+      <workItem from="1591714537267" duration="706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="48" y="23" width="1141" height="877" key="SettingsEditor" timestamp="1591714866347">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="48" y="23" width="1141" height="877" key="SettingsEditor/48.23.1392.877@48.23.1392.877" timestamp="1591714866347" />
+  </component>
+</project>
